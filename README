@@ -1,0 +1,8 @@
+Simple fork of Waiman Zhao's MRP121 library for the Arduino.
+
+The version I found on the DFRobot website was outdated as of
+Arduino IDE 1.0, and I "ported" it so that I could use it and
+make cool stuff with the latest and greatest.
+
+Hope someone else gets as much use out of this as I am right now.
+
